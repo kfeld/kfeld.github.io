@@ -104,3 +104,11 @@ of those sections to manage the look and feel of the site. */
 .navbar-default .navbar-nav>li>a {
     color: #fff;
 }
+
+.glyphicon-2x{
+    font-size: 2em; 
+}
+.glyphicon-3x{
+    font-size: 3em;
+    color: #fff;
+}
