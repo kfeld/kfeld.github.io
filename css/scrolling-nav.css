@@ -105,13 +105,13 @@ of those sections to manage the look and feel of the site. */
     color: #fff;
 }
 
-a.glyph-link:hover {
-    color: #00000;
+/*a.glyph-link:hover {
+    color: #000000;
 }
 
 span.glyphicon-3x:hover {
-    color: #00000;
-}
+    color: #000000;
+}*/
 
 .glyphicon-2x{
     font-size: 2em; 
@@ -120,3 +120,10 @@ span.glyphicon-3x:hover {
     font-size: 3em;
     color: #fff;
 }
+
+/*a.navbar-brand:hover {
+    color: #000000;
+}*/
+
+.navbar-nav {
+  float: right;
