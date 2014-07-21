@@ -147,3 +147,7 @@ span.glyphicon-3x:hover {
     font-family: 'Montserrat', sans-serif;
     text-align: left;
 }
+
+.fa fa-terminal {
+    color: #777;
+}
