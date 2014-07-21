@@ -53,8 +53,6 @@ of those sections to manage the look and feel of the site. */
     padding-top: 150px;
     text-align: center;
     background: #fff;
-    padding-left: 0;
-    padding-right: 0;
 }
 
 .services-section {
@@ -154,4 +152,8 @@ span.glyphicon-3x:hover {
 
 .center {
     float: center;
+}
+
+h1 {
+    font-size: 3em;
 }
