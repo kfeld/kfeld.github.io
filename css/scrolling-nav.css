@@ -27,12 +27,12 @@ html {
 The padding is very important to make sure the scrollspy picks up the right area when scrolled to. Adjust the margin and padding of sections and children 
 of those sections to manage the look and feel of the site. */
 
-.container-adapt {
+/*.container-adapt {
     padding-left: 0;
     padding-right: 0;
     margin-left: -50px;
     margin-right: -50px;
-}
+}*/
 
 #mc_embed_signup { 
     clear:left; 
@@ -42,8 +42,8 @@ of those sections to manage the look and feel of the site. */
 .intro-section {
     height: 100%;
     padding-top: 150px;
-    text-align: center;
-    background: red;
+    text-align: left;
+    background: #D3220C;
     padding-left: -15px;
     padding-right: -15px;
 }
@@ -91,7 +91,7 @@ of those sections to manage the look and feel of the site. */
 }
 
 .head {
-    background: red;
+    background: #D3220C;
 /*    margin-left: -8%;*/
 }
 
@@ -143,7 +143,7 @@ span.glyphicon-3x:hover {
 .tagline {
     color: #fff;
     font-family: 'Montserrat', sans-serif;
-    text-align: left;
+    font-size: 0.8vw;
 }
 
 .fa .fa-terminal {
