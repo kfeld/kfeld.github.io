@@ -35,8 +35,8 @@ of those sections to manage the look and feel of the site. */
 }*/
 
 #mc_embed_signup { 
-    clear:left; 
-    font: 1em 'Helvetica Neue', 'Helvetica', Arial,sans-serif; 
+    clear: left;
+    font-size: 1em; 
 }
 
 .intro-section {
