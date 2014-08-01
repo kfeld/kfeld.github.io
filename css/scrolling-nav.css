@@ -169,6 +169,7 @@ h1 {
 
 .validate {
     position: relative;
+    position: center;
     display: block;
     margin: 0 auto;
 }
