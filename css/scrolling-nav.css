@@ -151,6 +151,7 @@ span.glyphicon-3x:hover {
 }
 
 .center {
+    position: relative;
     text-align: center;
 }
 
