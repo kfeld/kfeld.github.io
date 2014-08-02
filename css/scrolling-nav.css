@@ -105,7 +105,7 @@ of those sections to manage the look and feel of the site. */
 }
 
 .mover {
-    margin-top: 5%;
+    margin-top: 6%;
     text-align: center;
 }
 
@@ -217,4 +217,8 @@ h1 {
 
   .col-lg-superoffset-3 {
     margin-left: 30%;
+  }
+
+  .address {
+    font-size: 0.4em;
   }
