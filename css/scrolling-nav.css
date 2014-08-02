@@ -209,10 +209,10 @@ h1 {
 
 .right {
     float: right;
-    padding-top: 40px;
+    padding-top: 10%;
     padding-left: 5px;
     padding-right: 5px;
-    padding-bottom: 40px;
+    padding-bottom: 10%;
 }
 
   .col-lg-superoffset-3 {
