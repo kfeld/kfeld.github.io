@@ -224,3 +224,7 @@ h1 {
     padding-top: 2%;
     padding-bottom: 2%;
   }
+
+  .normal {
+    font-family: 'Roboto', sans-serif;
+  }
