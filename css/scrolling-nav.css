@@ -199,11 +199,11 @@ h1 {
 
 .white {
     color: #fff;
-    font-size: 5em;
+    font-size: 3em;
 }
 
 .white:hover {
-    color: #D3220C;
+    color: #f0f0f0;
 }
 
 .right {
