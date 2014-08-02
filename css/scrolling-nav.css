@@ -117,14 +117,6 @@ of those sections to manage the look and feel of the site. */
     font-family: 'Montserrat', sans-serif;
 }
 
-.navbar-brand:hover {
-    color: #f0f0f0;
-}
-
-.navbar-nav:hover {
-    color: #f0f0f0;
-}
-
 .head {
     background: #D3220C;
 /*    margin-left: -8%;*/
