@@ -214,3 +214,7 @@ h1 {
     padding-right: 5px;
     padding-bottom: 40px;
 }
+
+  .col-lg-superoffset-3 {
+    margin-left: 30%;
+  }
