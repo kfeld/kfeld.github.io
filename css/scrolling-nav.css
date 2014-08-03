@@ -233,3 +233,7 @@ h1 {
   .new {
     font-size: 1.2em;
   }
+
+  .supersize-two {
+    font-size: 7vw;
+  }
