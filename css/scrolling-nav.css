@@ -247,3 +247,7 @@ h1 {
         color: #D3220C;
         background-color: #fff;
     }
+
+.navbar-default:hover .navbar-brand:hover {
+        color: #f0f0f0;
+    }
