@@ -262,3 +262,9 @@ h1 {
         text-align: center;
     }
 }
+
+@media (max-width:474px){
+    .normal {
+        font-size: 10px;
+    }
+}
