@@ -256,3 +256,8 @@ h1 {
     float: none;
     margin: 0 auto;
 }
+
+@media (max-width:750px){}
+    .tagline {
+        text-align: center;
+    }
