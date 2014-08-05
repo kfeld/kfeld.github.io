@@ -263,7 +263,7 @@ h1 {
     }
 }
 
-@media (max-width:474px){
+@media (max-width:650px){
     .normal {
         font-size: 10px;
     }
@@ -289,4 +289,10 @@ h1 {
         margin-bottom: 0;
     }
 
+}
+
+@media (max-width:650px){
+    .tagline {
+        font-size: 15px;
+    }
 }
