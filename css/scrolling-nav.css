@@ -69,7 +69,6 @@ of those sections to manage the look and feel of the site. */
 .intro-section {
     height: 100%;
     padding-top: 150px;
-    text-align: left;
     background: #D3220C;
     padding-left: -15px;
     padding-right: -15px;
@@ -171,6 +170,7 @@ span.glyphicon-3x:hover {
     color: #fff;
     font-family: 'Roboto', sans-serif;
     font-size: 0.8vw;
+    text-align: left;
 }
 
 .fa .fa-terminal {
