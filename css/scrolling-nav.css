@@ -252,12 +252,13 @@ h1 {
         color: #f0f0f0;
     }
 
-.col-centered{
+.col-centered {
     float: none;
     margin: 0 auto;
 }
 
-@media (max-width:750px){}
+@media (max-width:991px){
     .tagline {
         text-align: center;
     }
+}
