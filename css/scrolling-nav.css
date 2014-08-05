@@ -280,4 +280,7 @@ h1 {
     .footer-section {
         text-align: center;
     }
+    .address {
+    padding-bottom: 1%;
+    }
 }
