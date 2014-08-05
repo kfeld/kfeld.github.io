@@ -281,6 +281,7 @@ h1 {
         text-align: center;
     }
     .address {
-    padding-bottom: 1%;
+        padding-top: 5%;
+        padding-bottom: 1%;
     }
 }
