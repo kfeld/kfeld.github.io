@@ -252,3 +252,8 @@ h1 {
 .navbar-default:hover .navbar-brand:hover {
         color: #f0f0f0;
     }
+
+.col-centered{
+    float: none;
+    margin: 0 auto;
+}
